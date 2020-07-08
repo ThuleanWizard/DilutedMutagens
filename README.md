@@ -7,7 +7,7 @@ You can also find the [spreadsheet here](https://docs.google.com/spreadsheets/d/
 Have you ever felt that you don't use mutagens because they are too risky?<br> 
 Want to genetically engineer the perfect monster waifu?<br>
 Or maybe you just want some cat ears and a tail without turning into an abomination? <br>
- If yes, then this might be the mod for you!
+If yes, then this might be the mod for you!
 
 This mod allows you to dilute your mutagens to make them safer, but also less potent. Effectively, this means that you now have a low-risk, low-reward option for mutating your character. You can also avoid becoming a furry.
 
@@ -32,4 +32,4 @@ Installation is the same as any other mod:
 3. Make sure it's enabled on your world
 4. Have fun!
 
-If you need more detailed instructions, then a good write-up can be [found here](https://github.com/Zupercharged/CDDA-Alternate-ear-graphics).
+If you need more detailed instructions, then a good write-up can be [found here](https://github.com/Zupercharged/CDDA-Alternate-ear-graphics) .
