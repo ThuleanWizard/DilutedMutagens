@@ -1,0 +1,40 @@
+[
+  {
+    "type": "mutation",
+    "id": "LUPINE_FUR_DILUTED",
+    "name": {"str": "Gray Furred Limbs"},
+    "points": 1,
+    "visibility": 5,
+    "ugliness": 1,
+    "bodytemp_modifiers": [375, 750],
+    "bodytemp_sleep": 250,
+    "description": "Dense gray fur has grown to cover your limbs, providing a marginal protection against attacks, and considerable protection from cold.",
+    "types": ["SKIN"],
+    "changes_to": ["LUPINE_FUR"],
+    "prereqs": ["LIGHTFUR_DILUTED"],
+    "category": ["LUPINE_DILUTED"],
+    "armor": [
+      {
+        "parts": [
+          "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r"
+        ],
+        "bash": 1
+      }
+    ]
+  },
+  {
+    "type": "mutation",
+    "id": "FELINE_FUR_DILUTED",
+    "name": {"str": "Sleek Furred Limbs"},
+    "points": 1,
+    "visibility": 5,
+    "ugliness": 1,
+    "bodytemp_modifiers": [250, 500],
+    "bodytemp_sleep": 150,
+    "description": "You've grown sleek brown fur on your limbs, providing some protection from cold.",
+    "types": ["SKIN"],
+    "prereqs": ["LIGHTFUR_DILUTED"],
+    "changes_to": ["FELINE_FUR"],
+    "category": ["BEAST_DILUTED", "FELINE_DILUTED", "MOUSE_DILUTED"]
+  }
+]

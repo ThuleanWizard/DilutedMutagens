@@ -1,0 +1,10 @@
+{
+  "type": "MOD_INFO",
+  "ident": "diluted_mutagens",
+  "name": "Diluted Mutagens",
+  "authors": [ "Olaroll" ],
+  "description": "Adds diluted mutagens so you can create your ideal monster waifu!",
+  "category": "misc_additions",
+  "dependencies": [ "dda" ],
+  "version": "1.0"
+}
