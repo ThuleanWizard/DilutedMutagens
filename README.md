@@ -21,7 +21,7 @@ Here's the detailed feature list
 * Diluting is done by combining a targeted mutagen with a purifier and generic mutagen.
 * All diluting recipes are learned from the same books as regular mutagen.
 * Almost all skin mutations now have a version that only covers your limbs. Obtained with `Diluted` mutagens.
-  * These new limb mutations come with their own sprites if you use the Undead People tileset.
+  * These new limb mutations come with their own sprites if you use the [Undead People tileset](https://github.com/SomeDeadGuy/UndeadPeopleTileset).
   * Limb mutations can also be acquired randomly on the path to one of the regular skin mutations.
 
 <h2>How do I get it?</h2>
