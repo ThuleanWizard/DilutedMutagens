@@ -32,4 +32,4 @@ Installation is the same as any other mod:
 3. Make sure it's enabled on your world
 4. Have fun!
 
-If you need more detailed instructions, then a good write-up can be [found here](https://github.com/Zupercharged/CDDA-Alternate-ear-graphics) .
+If you need more detailed instructions, then a good write-up can be [found here](https://github.com/Zupercharged/CDDA-Alternate-ear-graphics).
