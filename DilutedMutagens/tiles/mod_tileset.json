@@ -4,7 +4,7 @@
 		"compatibility": [ "MshockXottoplus", "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE" ],
 		"tiles-new": [
 				{
-				"file": "Limb_Mutations_32x32.png",
+				"file": "tiles/Limb_Mutations_32x32.png",
 				"tiles": [
 						{ "id": "overlay_female_mutation_FEATHERS_DILUTED", "fg": 0 },
 						{ "id": "overlay_male_mutation_FEATHERS_DILUTED", "fg": 1 },

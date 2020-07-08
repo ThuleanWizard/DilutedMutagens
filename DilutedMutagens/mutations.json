@@ -23,7 +23,7 @@
     "copy-from": "PRETTY",
     "extend": {
       "category": [
-        "LUPINE_DILUTED", "LUPINE_EXTRA_DILUTED", "FELINE_DILUTED", "FELINE_EXTRA_DILUTED"
+        "FELINE_DILUTED", "FELINE_EXTRA_DILUTED", "LUPINE_DILUTED", "LUPINE_EXTRA_DILUTED"
       ]
     }
   },
@@ -43,7 +43,7 @@
     "type": "mutation",
     "id": "SMELLY",
     "copy-from": "SMELLY",
-    "extend": {"category": ["LUPINE_DILUTED", "FELINE_DILUTED"]}
+    "extend": {"category": ["FELINE_DILUTED", "LUPINE_DILUTED"]}
   },
   {
     "type": "mutation",
@@ -181,13 +181,13 @@
     "type": "mutation",
     "id": "TAIL_FLUFFY",
     "copy-from": "TAIL_FLUFFY",
-    "extend": {"category": ["LUPINE_DILUTED", "LUPINE_EXTRA_DILUTED"]}
+    "extend": {"category": ["LUPINE_EXTRA_DILUTED", "LUPINE_DILUTED"]}
   },
   {
     "type": "mutation",
     "id": "LUPINE_EARS",
     "copy-from": "LUPINE_EARS",
-    "extend": {"category": ["LUPINE_DILUTED", "LUPINE_EXTRA_DILUTED"]}
+    "extend": {"category": ["LUPINE_EXTRA_DILUTED", "LUPINE_DILUTED"]}
   },
   {
     "type": "mutation",
@@ -229,7 +229,7 @@
     "type": "mutation",
     "id": "PAWS",
     "copy-from": "PAWS",
-    "extend": {"category": ["LUPINE_DILUTED", "FELINE_DILUTED"]}
+    "extend": {"category": ["FELINE_DILUTED", "LUPINE_DILUTED"]}
   },
   {
     "type": "mutation",
