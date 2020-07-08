@@ -9,7 +9,7 @@ Want to genetically engineer the perfect monster waifu?<br>
 Or maybe you just want some cat ears and a tail without turning into an abomination? <br>
  If yes, then this might be the mod for you!
 
-This mod allows you to dilute your mutagens to makes them safer, but also less potent. Effectively, this means that you now have a low-risk, low-reward option for mutating your character. You can also avoid becoming a furry.
+This mod allows you to dilute your mutagens to make them safer, but also less potent. Effectively, this means that you now have a low-risk, low-reward option for mutating your character. You can also avoid becoming a furry.
 
 It also adds new skin mutations that only cover your limbs. (Better animal ears mod can be found [here](https://github.com/Zupercharged/CDDA-Alternate-ear-graphics))<br>
 ![cataclysm-tiles_4TgTjWTYqk|150x150, 75%](https://raw.githubusercontent.com/Olaroll/DilutedMutagens/master/Limbs_Preview.png) 
