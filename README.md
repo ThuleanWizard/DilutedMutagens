@@ -1,3 +1,8 @@
+Tweaked to play well with Cataclysm: Bright Nights Ahead.
+Below is a copy of the original readme by the original author.
+
+
+
 **IMPORTANT:** Currently the mod only has diluted versions of the Feline and Lupine mutagens. This is purely because I can't balance the other ones, so I need someone to help me out. It's just a matter of filling out a google sheet with the relevant info. Once that's done, it'll only take me a minute to run a script that turns it into the finished mod.
 
 If you're interested in helping, please send me a message on discord (`Olaroll#2208`).
