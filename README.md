@@ -1,5 +1,5 @@
 Tweaked to play well with Cataclysm: Bright Nights Ahead.
-Below is a copy of the original readme by the original author.
+Below is a copy of the original readme by the original author, Olaroll. 
 
 
 
